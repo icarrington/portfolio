@@ -43,4 +43,13 @@ export const projectsData = [
         videoUrl: '',
         projectUrl: 'https://github.com/icarrington/Wordle-Clone',
     },
+    {
+        projectName: 'Beat Mania Like Game',
+        projectDescription:
+            'This is a game similar to beat mania or dance dance revolution or guitar hero. The four keys are Q, W, O, and P and you score by pressing the correct key when it has reached the green zone at the top.',
+        imageUrl: 'https://user-images.githubusercontent.com/80280780/182742327-04f7e957-5221-4a03-a6e5-8c2bb5ef4133.png',
+        videoUrl: '',
+        projectUrl: 'https://github.com/icarrington/Beat-Mania-Game',
+    },
+
 ];
