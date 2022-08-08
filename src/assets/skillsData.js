@@ -12,6 +12,10 @@ export const skillList = [
         skillUrl: 'https://madhavbahl.tech/portfolio-assets/js.png',
     },
     {
+        skillName: 'TypeScript',
+        skillUrl: 'https://madhavbahl.tech/portfolio-assets/ts.png'
+    },
+    {
         skillName: 'React',
         skillUrl: 'https://madhavbahl.tech/portfolio-assets/react.png',
     },
