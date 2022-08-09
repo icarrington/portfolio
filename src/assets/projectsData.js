@@ -18,6 +18,15 @@ export const projectsData = [
         projectUrl: 'https://github.com/icarrington/Quiz-App',
     },
     {
+        projectName: 'Higher or Lower Card Game',
+        projectDescription:
+            'This is a Card Game developed in React with TypeScript where you have to guess whether the next card drawn will be higher or lower than the previous one. Both the previous and next cards are shown..',
+        imageUrl: 'https://user-images.githubusercontent.com/80280780/183772942-bca8509a-1619-4d31-95fb-754d2089c009.PNG',
+        videoUrl:
+            '',
+        projectUrl: 'https://github.com/icarrington/HigherLowerCardGame',
+    },
+    {
         projectName: 'Calculator App',
         projectDescription:
             'A calculator with 4 basic operations: addition, subtraction, multiplication, division. Made with ReactJS',
