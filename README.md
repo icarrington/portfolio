@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
+My portfolio pages uses client-side routing technology with React Router. Each page is routed to a component in the navbar. I
+mapped the skills and projects to an object array for dynamic integration. The portfolio is responsive and visually appealing and
+is deployed to GitHub Pages: https://icarrington.github.io/portfolio/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
