@@ -13,6 +13,7 @@ export default function ProjectCard(props) {
       <div className="project-details-container">
         <h2 className="project-heading">{props.projectName}</h2>
         <p className="project-details">{props.projectDescription}</p>
+        <a className='project-website' href={props.website} target='_blank'>Go to website</a>
       </div>
     </div>
   )
